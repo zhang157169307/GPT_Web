@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'http://weichuanecology.cn/image.jpg',
+      avatar: 'https://i.hd-r.cn/c5b00c830e72c15e6fe77cc2b043cfa0.jpg',
       name: 'SunShine丶',
       description: '',
     },
